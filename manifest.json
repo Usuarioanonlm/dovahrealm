@@ -1,0 +1,18 @@
+{
+  "name": "DovahRealm — RPG 2D de Mundo Aberto",
+  "short_name": "DovahRealm",
+  "description": "RPG 2D de mundo aberto estilo Skyrim para mobile: explore, lute, lance magias e derrote o dragão Alduin.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    {
+      "src": "/manus-storage/logo-dragon_043d8df9.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

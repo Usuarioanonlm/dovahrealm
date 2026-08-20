@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/kG2LKYrHGv9SUbudKpcbVk.git",
+    "expiration": "2026-08-21T19:06:27.903Z",
+    "token": "art_v2_x_1b880766d13e3aa7bb676536d1420270e5aff3cd?expires=1787339187",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "dovahrealm",
+  "path": "/home/ubuntu/dovahrealm",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "ne5Xor2dAdGmL4RmxaeF4K",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "TsX8fQRFQMvePX7fEsE5Gs",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Kaua Hoffmann",
+    "OWNER_OPEN_ID": "iEuyuzbJqPdYYYFGx3B6sC",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "95ebea18-d420-42f8-a670-cbfd0b1619c0",
+    "VITE_APP_ID": "kG2LKYrHGv9SUbudKpcbVk",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "DovahRealm — RPG 2D de Mundo Aberto",
+    "VITE_FRONTEND_FORGE_API_KEY": "5FaajcinybiedjjJ4pFkwC",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
